@@ -3,4 +3,4 @@ markdown: redcarpet
 baseurl: /hydro
 
 exclude: []
-theme: jekyll-theme-tactile
+theme: jekyll-theme-midnight
