@@ -1,6 +1,6 @@
 markdown: redcarpet
 
-baseurl: "" 
+baseurl: /hydro
 
 exclude: []
 theme: jekyll-theme-tactile
