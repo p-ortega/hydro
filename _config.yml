@@ -3,3 +3,4 @@ markdown: redcarpet
 baseurl: "" 
 
 exclude: []
+theme: jekyll-theme-tactile
